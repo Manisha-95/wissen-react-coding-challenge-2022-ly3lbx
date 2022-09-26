@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+.box {
+  border: 1px solid black;
+  padding: 3em;
+  display: flex;
+  flex-direction: column;
+}
+.insideBox,
+label {
+  display: flex;
+  flex-direction: column;
+}
+.loginbtn {
+  margin-top: 2em;
+  width: fit-content;
+}
